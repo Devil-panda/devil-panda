@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devil-panda&label=Profile%20views&color=0e75b6&style=flat" alt="devil-panda" /> </p>
 
-- 🔭 I’m currently working on **LUA Lang**
+- 🔭 I’m currently working on **LUA Scripts & Website Project**
 
 - 🌱 I’m currently learning **LUA, NodeJS, React Native**
 
