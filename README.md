@@ -6,13 +6,13 @@
 
 - 🔭 I’m currently working on **LUA Scripts & Website Project**
 
-- 🌱 I’m currently learning **LUA, NodeJS, React Native**
+- 🌱 I’m currently learning **LUA, NodeJS, React JS and explore AI & ML World**
 
-- 💬 Ask me about **HTML , CSS , JS , Some event of LUA**
+- 💬 Ask me about **HTML , CSS , JS , JQuery , NodeJS , Python , Some event of LUA**
 
-- 📫 How to reach me **project4yorik@gmail.com**
+- 📫 How to reach me **arya7bacchuwar@gmail.com**
 
-- ⚡ Fun fact **Chill Guy**
+- ⚡ Fun fact **Cool Person, Open-minded**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
