@@ -4,15 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devil-panda&label=Profile%20views&color=0e75b6&style=flat" alt="devil-panda" /> </p>
 
-- 🔭 I’m currently working on **LUA Scripts & Website Project**
+- 🔭 I’m currently working on **LUA Scripts & AI/ML Project**
 
 - 🌱 I’m currently learning **LUA, NodeJS, React JS and explore AI & ML World**
 
-- 💬 Ask me about **HTML , CSS , JS , JQuery , NodeJS , Python , Some event of LUA**
+- 💬 Ask me about **HTML , CSS , JS , JQuery , NodeJS , Python , Some event of LUA, other**
 
 - 📫 How to reach me **arya7bacchuwar@gmail.com**
 
-- ⚡ Fun fact **Cool Person, Open-minded**
+- ⚡ Fun fact **Fun guy, Open-minded**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
